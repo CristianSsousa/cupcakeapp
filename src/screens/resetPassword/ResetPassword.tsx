@@ -12,7 +12,7 @@ const ResetScreen = () => {
         }
 
         if (email === "admin@admin") {
-            alert("Email enviado com sucesso")
+            alert("Email para recuperar senha enviado com sucesso")
             NavigationService.navigate("Login")
             return
         } else {

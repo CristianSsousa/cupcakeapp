@@ -38,7 +38,7 @@ const LoginScreen = () => {
                                 onChangeText={(text) => setEmail(text)}
                                 value={email}
                                 autoCapitalize="none"
-                                className="w-full  font-bold "
+                                className="w-full font-bold"
                                 placeholder="Digite seu e-mail"
                                 placeholderTextColor={"#fbb5bf"}
                             />
@@ -49,7 +49,7 @@ const LoginScreen = () => {
                                 value={password}
                                 secureTextEntry={true}
                                 autoCapitalize="none"
-                                className="w-full  font-bold "
+                                className="w-full font-bold"
                                 placeholder="Digite sua senha"
                                 placeholderTextColor={"#fbb5bf"}
                             />
