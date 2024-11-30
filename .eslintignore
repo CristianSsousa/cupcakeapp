@@ -1,0 +1,12 @@
+build
+coverage
+package-lock.json
+ios
+android
+app.json
+credentials.json
+eas.json
+google-services.json
+service-account.json
+package.json
+tsconfig.json
